@@ -1,0 +1,29 @@
+// pages
+@import 'menu';
+@import 'home';
+
+// colors
+$blue: #142642;
+$red: #E0453E;
+$cultured: #F0F0F0;
+$white: #FFFFFF;
+
+// fonts
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
